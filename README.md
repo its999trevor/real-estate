@@ -1,5 +1,5 @@
-# Estate-Vista
- The Estate Vista project is a dynamic and feature-packed platform designed to redefine how users interact with property listings Leveraging the MERN (MongoDB, Express.js, React, Node.js) stack, this project seamlessly integrates modern technologies to create robust and user-friendly experience. The Real Estate website project aims to set new standards in the real estate industry by offering a modern, intuitive, and secure platform for users to explore, inquire, and engage with property listings. Whether you are a potential buyer, or seller, this project caters to diverse users, providing a seamless and enjoyable real estate experience.
+# THE ELDEN ESTATE
+ The ELDEN ESTATE project is a dynamic and feature-packed platform designed to redefine how users interact with property listings Leveraging the MERN (MongoDB, Express.js, React, Node.js) stack, this project seamlessly integrates modern technologies to create robust and user-friendly experience. The Real Estate website project aims to set new standards in the real estate industry by offering a modern, intuitive, and secure platform for users to explore, inquire, and engage with property listings. Whether you are a potential buyer, or seller, this project caters to diverse users, providing a seamless and enjoyable real estate experience.
 
 ## Features
 
